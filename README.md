@@ -1,1 +1,1 @@
-# A-model-for-predicting-the-career-duration-of-NBA-players.
+# The essence of the code lies in creating a model based on the Gradient Boosting method. In the TrainingModel.py file, the model is trained on prepared data, and this model can then be executed and applied to other datasets using the Main.py file.
